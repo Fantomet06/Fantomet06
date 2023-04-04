@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on python CLI<br>👯 I’m looking to collaborate on CTF's<br>🌱 I’m currently learning cybersecurity<br>🤝 Feel free to ask for anything!<br>💬 Discord: Fantomet#5714<br>⚡ Love AI development
+🔭 I’m currently working on python CLI<br>👯 I’m looking to collaborate on CTF's<br>🌱 I’m currently learning cybersecurity<br>🤝 Feel free to ask for anything!<br>💬 Discord: Fantomet#5714<br>⚡ Linux OS: Kali
 
 
 ## 🌐 Socials:
